@@ -1,6 +1,3 @@
-# Amateur Radio High Altitude Ballooning (ARHAB)
-## "The poor man's space program"
-
 ![ARHAB logo](https://arhab.org/images/ARHAB_logo4.gif)
 
 ARHAB is the study and use of high altitude balloons to explore near space. Near space is the region of atmosphere between 60,000 feet and the accepted boundary of space at 328,000 feet altitude. These altitudes make near space far more like Earth orbit than the surface of the Earth. Air pressure in near space reaches 99% of a vacuum of better and temperatures drop to a low of -60F or colder. Cosmic radiation is over 100 times greater than at sea level. Hobbiests and citizen scientists alike use balloons to send payloads to near space, recording images and scientific data as they go. ARHAB.org is the primary location for posting and tracking upcoming high altitude balloon missions.
