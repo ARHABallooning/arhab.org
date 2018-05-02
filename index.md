@@ -17,7 +17,7 @@ The ARHAB community is active across the world:
 - [Balloon Sked Mailing List](http://groups.yahoo.com/group/balloon_sked/)
 - [Balloonatics Mailing List](https://groups.yahoo.com/neo/groups/Balloonatics/info)
 
-In the US, the annual [Great Plains Super Launch](http://www.superlaunch.org/) will take place on June 14, 2018.
+In the US, the annual [Great Plains Super Launch](http://www.superlaunch.org/) will take place on June 14-16, 2018.
 
 ## Tracking and Prediction Sites
 Below are some recommended tracking sites:
