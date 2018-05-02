@@ -33,3 +33,6 @@ The flight records on the old site are currently being transferred. Please send 
 The ARHAB.org site is maintained by Astra West W5MAW. Previously the site was maintained by Keith Kaiser WA0TJT.
 
 You can contact Astra at: []()
+
+### Site note
+This Github-hosted site is temporary while the old site is being rebuilt. The old site can be accessed at [old.arhab.org](https://old.arhab.org/) but some portions may be broken.
