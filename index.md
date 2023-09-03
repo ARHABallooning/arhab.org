@@ -5,19 +5,15 @@ ARHAB is the study and use of high altitude balloons to explore near space. Near
 For more information on ARHAB, [this Wikipedia entry](https://en.wikipedia.org/wiki/High-altitude_balloon#Amateur_High_Altitude_Ballooning) is a great introduction. Or read the [UKHAS Beginners Guide to High Altitude Ballooning](https://ukhas.org.uk/general:beginners_guide_to_high_altitude_ballooning) to start planning your own flight.
 The APRS.org Wiki hosts a [page dedicated to ARHAB](http://info.aprs.net/index.php?title=ARHAB) with some additional information.
 
-## Upcoming and Past Flights
-[View upcoming flights](https://flights.arhab.org)
-
-[Post your flight](https://flights.arhab.org/hab_launch_form.php)
 
 ## ARHAB Community
 The ARHAB community is active across the world:
 
-- [GPLS Mailing List](https://groups.io/g/GPSL)
+- [GPSL Mailing List](https://groups.io/g/GPSL)
 - [Balloon Sked Mailing List](http://groups.yahoo.com/group/balloon_sked/)
 - [Balloonatics Mailing List](https://groups.yahoo.com/neo/groups/Balloonatics/info)
 
-In the US, the annual [Great Plains Super Launch](http://www.superlaunch.org/) will take place on June 14-16, 2018.
+In the US, the annual [Great Plains Super Launch](http://www.superlaunch.org/) is the largest gathering of ARHAB enthusiasts.
 
 ## Tracking and Prediction Sites
 Below are some recommended tracking sites:
@@ -26,13 +22,13 @@ Below are some recommended tracking sites:
 - [APRS.fi](https://aprs.fi/)
 - [UKHAS Landing Prediction](http://predict.habhub.org/)
 
-## Records
-The flight records on the old site are currently being transferred. Please send any new records to [](mailto:) and they'll be processed when records are ready.
-
-## Contact
+## Admin
 The ARHAB.org site is maintained by Astra West W5MAW. Previously the site was maintained by Keith Kaiser WA0TJT.
 
-You can contact Astra at: []()
+### Old Site Archive
 
-### Site note
-This Github-hosted site is temporary while the old site is being rebuilt. The old site can be accessed at [old.arhab.org](https://old.arhab.org/) but some portions may be broken.
+[View flight archive](https://flights.arhab.org)
+
+[Post flight](https://flights.arhab.org/hab_launch_form.php)
+
+[old.arhab.org](https://old.arhab.org/)
