@@ -26,7 +26,7 @@ Below are some recommended tracking sites:
 
 The old site was previously maintained by Keith Kaiser WA0TJT SK. It included a wealth of ARHAB information as well as an announcement form for groups to post their balloon launches.
 
-Previously submitted flight missions are archived here: [View flight archive](flights-archive.html)
+Previously submitted flight missions are archived here: [View flight archive](flight-archive.html)
 
 The full site is available for browsing on the Wayback Machine:
 [ARHAB.org (2018)](https://web.archive.org/web/20171202230935/http://arhab.org/)
